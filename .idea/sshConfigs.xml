@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="ec2-3-238-98-200.compute-1.amazonaws.com" id="7f0b6666-dc36-4be3-b15d-c8dad0d69886" keyPath="$PROJECT_DIR$/../../secrets/nfl_key.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

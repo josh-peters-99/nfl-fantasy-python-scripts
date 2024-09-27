@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="96f55996-e40b-4de9-977f-9dcf02fff05f" name="NFL_Stats_EC2">
+        <fileTransfer accessType="SFTP" host="ec2-3-238-98-200.compute-1.amazonaws.com" port="22" sshConfigId="7f0b6666-dc36-4be3-b15d-c8dad0d69886" sshConfig="ec2-user@ec2-3-238-98-200.compute-1.amazonaws.com:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
